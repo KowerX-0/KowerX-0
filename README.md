@@ -18,25 +18,29 @@
 
 ## `> connect`
 
+## `> contact`
+
 <div align="center">
 
 <a href="https://github.com/KowerX-0">
   <img src="https://img.shields.io/badge/GitHub-KowerX--0-111111?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://guns.lol/kowerx">
-  <img src="https://images.guns.lol/c5797c979f123ce0dfec75e736deb722d119c11a/sYlN8y.webp" width="38">
+  <img src="https://images.guns.lol/c5797c979f123ce0dfec75e736deb722d119c11a/sYlN8y.webp" width="42" height="42">
 </a>
 
+<br><br>
+
+<a href="https://github.com/KowerX-0">github.com/KowerX-0</a>
+&nbsp; • &nbsp;
+<a href="https://guns.lol/kowerx">guns.lol/kowerx</a>
+
 </div>
 
-`github.com/KowerX-0` ・ `guns.lol/kowerx`
-
-</div>
 ---
-
 ## `> whoami`
 
 ```text
