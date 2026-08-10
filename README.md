@@ -17,7 +17,9 @@
 ````
 
 [![GitHub](https://img.shields.io/badge/GitHub-KowerX--0-111111?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/KowerX-0)
-[![guns.lol](https://images.guns.lol/c5797c979f123ce0dfec75e736deb722d119c11a/sYlN8y.webp)](https://guns.lol/kowerx)
+<a href="https://guns.lol/kowerx">
+  <img src="https://images.guns.lol/c5797c979f123ce0dfec75e736deb722d119c11a/sYlN8y.webp" width="45">
+</a>
 
 </div>
 
