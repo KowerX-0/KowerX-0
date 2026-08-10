@@ -86,18 +86,6 @@ New projects will appear here.
 
 ---
 
-## `> github`
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KowerX-0\&show_icons=true\&hide_border=true\&theme=transparent\&title_color=ffffff\&text_color=888888\&icon_color=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KowerX-0\&layout=compact\&hide_border=true\&theme=transparent\&title_color=ffffff\&text_color=888888)
-
-</div>
-
----
-
 ## `> activity`
 
 ```text
