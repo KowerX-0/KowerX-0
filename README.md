@@ -12,7 +12,7 @@
 │  ACCESS LEVEL    : PUBLIC                                    │
 │  CURRENT MODE    : BUILDING                                  │
 │  SIGNAL          : CONNECTED                                 │
-│  LOCATION        : YEREVAN, ARM                              │
+│  LOCATION        : UNKNOWN                                   │
 └──────────────────────────────────────────────────────────────┘
 ```
 
@@ -95,13 +95,13 @@ STATUS : NO PUBLIC PROJECTS YET
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│   01  CODE                                                   │
-│   02  BUILD                                                  │
-│   03  EXPERIMENT                                             │
-│   04  DEPLOY                                                 │
-│   05  REPEAT                                                 │
-│                                                              │
+│                                                               │
+│   01  CODE                                                    │
+│   02  BUILD                                                   │
+│   03  EXPERIMENT                                              │
+│   04  DEPLOY                                                  │
+│   05  REPEAT                                                  │
+│                                                               │
 └──────────────────────────────────────────────────────────────┘
 ```
 
@@ -122,11 +122,11 @@ STATUS : NO PUBLIC PROJECTS YET
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│                   "WE ARE EVERYWHERE."                       │
-│                                                              │
-│                K Ø W Ξ R X  //  END OF TRANSMISSION          │
-│                                                              │
+│                                                               │
+│                   "WE ARE EVERYWHERE."                        │
+│                                                               │
+│                K Ø W Ξ R X  //  END OF TRANSMISSION           │
+│                                                               │
 └──────────────────────────────────────────────────────────────┘
 ```
 
