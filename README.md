@@ -24,11 +24,13 @@
   <img src="https://img.shields.io/badge/GitHub-KowerX--0-111111?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
+&nbsp;&nbsp;
+
 <a href="https://guns.lol/kowerx">
-  <img src="https://images.guns.lol/c5797c979f123ce0dfec75e736deb722d119c11a/sYlN8y.webp" width="45">
+  <img src="https://images.guns.lol/c5797c979f123ce0dfec75e736deb722d119c11a/sYlN8y.webp" width="38">
 </a>
 
-<br>
+</div>
 
 `github.com/KowerX-0` ・ `guns.lol/kowerx`
 
