@@ -1,16 +1,142 @@
-## Hi there 👋
+````markdown
+<div align="center">
 
-<!--
-**KowerX-0/KowerX-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# `KØWΞRX`
 
-Here are some ideas to get you started:
+### `DEVELOPER // BUILDER // DIGITAL EXPLORER`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   SYSTEM STATUS    : ONLINE                                 │
+│   ACCESS LEVEL     : PUBLIC                                 │
+│   CURRENT MODE     : BUILDING                               │
+│   SIGNAL           : CONNECTED                              │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+````
+
+[![GitHub](https://img.shields.io/badge/GitHub-KowerX--0-111111?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/KowerX-0)
+[![guns.lol](https://img.shields.io/badge/guns.lol-kowerx-111111?style=for-the-badge)](https://guns.lol/kowerx)
+
+</div>
+
+---
+
+## `> whoami`
+
+```text
+I'm KowerX — a student and developer.
+
+I like building things, experimenting with software,
+automating repetitive tasks and exploring how systems work.
+
+Code. Break. Fix. Repeat.
+```
+
+---
+
+## `> about`
+
+|                  |                                  |
+| ---------------- | -------------------------------- |
+| `ROLE`           | Student / Developer              |
+| `FOCUS`          | Software • Automation • Systems  |
+| `INTERESTS`      | Bots • Web • Games • Open Source |
+| `ENVIRONMENT`    | Windows / PowerShell             |
+| `CURRENT STATUS` | Online                           |
+
+---
+
+## `> tech_stack`
+
+### Languages
+
+![C++](https://img.shields.io/badge/C%2B%2B-111111?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-111111?style=flat-square&logo=lua&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-111111?style=flat-square&logo=visualstudiocode&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-111111?style=flat-square&logo=powershell&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-111111?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-111111?style=flat-square\&logo=visualstudiocode\&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-111111?style=flat-square\&logo=powershell\&logoColor=white)
+
+---
+
+## `> projects`
+
+```text
+[ ACCESSING PROJECT DATABASE... ]
+
+STATUS : NO PUBLIC PROJECTS YET
+
+New projects will appear here.
+```
+
+> Building quietly. Publishing when ready.
+
+---
+
+## `> github`
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KowerX-0\&show_icons=true\&hide_border=true\&theme=transparent\&title_color=ffffff\&text_color=888888\&icon_color=ffffff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KowerX-0\&layout=compact\&hide_border=true\&theme=transparent\&title_color=ffffff\&text_color=888888)
+
+</div>
+
+---
+
+## `> activity`
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   01  CODE                                                  │
+│   02  BUILD                                                 │
+│   03  EXPERIMENT                                            │
+│   04  DEPLOY                                                │
+│   05  REPEAT                                                │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## `> contact`
+
+**GitHub**
+[@KowerX-0](https://github.com/KowerX-0)
+
+**guns.lol**
+[kowerx](https://guns.lol/kowerx)
+
+---
+
+<div align="center">
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│                 "WE ARE EVERYWHERE."                        │
+│                                                             │
+│              KØWΞRX // END OF TRANSMISSION                  │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+`© KØWΞRX`
+
+</div>
+```
